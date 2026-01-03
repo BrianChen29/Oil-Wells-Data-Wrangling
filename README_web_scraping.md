@@ -1,17 +1,4 @@
-# Oil-Wells-Data-Wrangling
-
-DSCI560_Lab6
-
-## Introduction
-
-The goal of this lab is to design and implement an automated data processing pipeline that extracts, enriches, and consolidates well data from multiple sources into a unified database.
-The project combines PDF data extraction, web scraping, and database integration, ensuring that all wells contain complete and standardized information for further analysis.
-
-### I am responsible for
-
-- Web Scraping 
-- Data Integration
-
+# DSCI560_Lab6
 
 ## Initialize DB
 Before running any program, please execute this sql first.
